@@ -1,0 +1,10 @@
+ipykernel
+ipython
+matplotlib
+numpy
+pandas
+polars
+pyarrow
+scikit-learn
+seaborn
+tabulate
